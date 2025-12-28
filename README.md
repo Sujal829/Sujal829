@@ -1,27 +1,63 @@
-## 👋 Hi, I'm Sujal
+## 👋 Hi, I'm Sujal Jathar
 
-🚀 React Developer | JavaScript | Frontend Enthusiast
+🚀 React Developer | Frontend Engineer  
+📍 Pune, Maharashtra, India  
 
-### 🛠 Tech Stack
-- React, JavaScript (ES6+)
-- HTML, CSS, Tailwind
-- React Router, Context API
-- Axios, REST APIs
-- Git & GitHub
+I build responsive, real-world web applications using **React, JavaScript, and modern frontend tools**.  
 
-### 📌 Featured Projects
-🔹 **E-Commerce App**
-- Auth, cart, protected routes
-- React, Context API, Tailwind
-- [Live Demo] | [Source Code]
+---
 
-🔹 **Advanced Product Filter App**
-- Search, filter, debounce, pagination
-- Custom Hooks & performance optimization
+## 🛠 Tech Stack
 
-### 📈 Currently Learning
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap, Material UI
+
+**State & Routing**
+- Contex
 - Redux Toolkit
-- Performance optimization
-- Clean architecture in React
+- React Router
 
-📫 Reach me: linkedin.com/in/yourname
+**APIs & Tools**
+- Axios, Fetch API
+- JSON Server
+- EmailJS
+- Git & GitHub
+- Vite, CRA, VS Code
+
+---
+
+## 🎓 Education
+
+**Savitribai Phule Pune University (SPPU)**  
+BBA – Computer Applications (2022 – 2025)  
+**CGPA:** 8.91
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥈🥉 **National Competitive Programming**
+  - Secured **2nd & 3rd rank nationally** in a C programming competition
+
+- 🎓 **IIT Bombay – Spoken Tutorial**
+  - Certified in **HTML, C, MySQL, and Git**
+
+- 🛡 **Digital Safety Awareness**
+  - Appreciated by **Quick Heal Foundation**
+
+---
+
+## 📈 Currently Learning
+- Redux Toolkit (Advanced)
+- Performance Optimization in React
+- Clean Architecture & Best Practices
+
+---
+
+## 📫 Contact
+- 📧 Email: sujaljathar729@gmail.com
+- 🌐 Portfolio: https://sujaljathar.netlify.app
+- 💼 LinkedIn: https://www.linkedin.com/in/sujal-jathar-018019286  
