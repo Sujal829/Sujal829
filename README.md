@@ -17,8 +17,6 @@ I build **clean, responsive, and scalable frontend applications** using modern R
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript (ES6+), HTML5, CSS3
 
 **Frontend**
 - React (Hooks, Context API)
@@ -32,7 +30,7 @@ I build **clean, responsive, and scalable frontend applications** using modern R
 - EmailJS
 - Git & GitHub
 - Vite, CRA, VS Code
- 
+
 ---
 
 ## 🚀 Current Focus
