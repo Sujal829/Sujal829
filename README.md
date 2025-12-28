@@ -4,9 +4,7 @@
 📍 Pune, Maharashtra, India  
 
 I build responsive, real-world web applications using **React, JavaScript, and modern frontend tools**.  
-<a href="https://www.linkedin.com/in/sujal-jathar-018019286" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
-  </a>
+
 ---
 
 ## 🛠 Tech Stack
