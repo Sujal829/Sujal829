@@ -52,18 +52,19 @@ I build **clean, responsive, and scalable frontend applications** using modern R
 ## 📫 How to Reach Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sujal-jathar-018019286">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=white" width="28"/>
   </a>
   <a href="https://github.com/sujaljathar">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=white" width="28"/>
   </a>
   <a href="https://sujaljathar.netlify.app">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/netlify.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/netlify.svg?color=white" width="28"/>
   </a>
   <a href="mailto:sujaljathar729@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=white" width="28"/>
   </a>
 </p>
+
 
 ---
 
