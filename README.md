@@ -50,23 +50,8 @@ I build **clean, responsive, and scalable frontend applications** using modern R
 ---
 
 ## 📫 How to Reach Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/sujal-jathar-018019286">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=white" width="28"/>
-  </a>
-  <a href="https://github.com/sujaljathar">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=white" width="28"/>
-  </a>
-  <a href="https://sujaljathar.netlify.app">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/netlify.svg?color=white" width="28"/>
-  </a>
-  <a href="mailto:sujaljathar729@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=white" width="28"/>
-  </a>
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-jathar-018019286)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sujaljathar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://sujaljathar.netlify.app)
 
 
