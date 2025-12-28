@@ -65,6 +65,10 @@ I build **clean, responsive, and scalable frontend applications** using modern R
   </a>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-jathar-018019286)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sujaljathar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://sujaljathar.netlify.app)
+
 
 ---
 
