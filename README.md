@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Sujal
 
-<!--
-**Sujal829/Sujal829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 React Developer | JavaScript | Frontend Enthusiast
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- React, JavaScript (ES6+)
+- HTML, CSS, Tailwind
+- React Router, Context API
+- Axios, REST APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+🔹 **E-Commerce App**
+- Auth, cart, protected routes
+- React, Context API, Tailwind
+- [Live Demo] | [Source Code]
+
+🔹 **Advanced Product Filter App**
+- Search, filter, debounce, pagination
+- Custom Hooks & performance optimization
+
+### 📈 Currently Learning
+- Redux Toolkit
+- Performance optimization
+- Clean architecture in React
+
+📫 Reach me: linkedin.com/in/yourname
