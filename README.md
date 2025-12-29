@@ -35,6 +35,15 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,mui,vite,python,cpp,java,nodejs,mongodb,git,github,vscode,figma" />
 </p>
+
+--- 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sujal829/Sujal829/output/pacman-contribution-graph.svg">
+</picture>
+
 --- 
 
 ![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=radical)
