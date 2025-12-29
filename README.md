@@ -1,66 +1,64 @@
-# Hi, I'm Sujal 👋
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media)]()
 
-> React Developer · Frontend Engineer · Building real-world web applications
+<h1 align="center">Hi 👋, I'm Sujal Jathar</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-I'm **Sujal Jathar**, a React developer from Pune, India.  
-I build **clean, responsive, and scalable frontend applications** using modern React tools and best practices.  
+<img align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
----
-
-## 🔭 What I Do
-- Build real-world **React applications** with clean architecture.
-- Implement **authentication, protected routes, and role-based access**.
-- Integrate REST APIs and handle complex UI logic.
-- Focus on **performance optimization and reusable components**.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sujal829&label=Profile%20views&color=0e75b6&style=flat" alt="Sujal829" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-
-**Frontend**
-- React (Hooks, Context API)
-- Redux Toolkit
-- React Router
-- Tailwind CSS, Bootstrap, Material UI
-
-**Tools & APIs**
-- Axios, Fetch API
-- JSON Server
-- EmailJS
-- Git & GitHub
-- Vite, CRA, VS Code
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Web & Full-Stack Projects**
+- 🌱 I’m currently learning **Advanced React & Backend**
+- 💬 Ask me about **JavaScript, React, MERN**
+- 📫 How to reach me **sujaljathar729@gmail.com**
+- ⚡ Fun fact **I love building clean UI & solving problems**
 
 ---
 
-## 🚀 Current Focus
-- Strengthening **Redux Toolkit & advanced React patterns**
-- Improving performance using `useMemo` & `useCallback`
-- Writing clean, maintainable component architecture
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sujal-jathar-018019286" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Sujal829" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sujal_jathar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Open To
-- Frontend / React Developer roles
-- Internships & junior developer opportunities
-- Open-source collaboration
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📫 How to Reach Me
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal829&show_icons=true&theme=tokyonight" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-jathar-018019286)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://sujaljathar.netlify.app)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=tokyonight" />
+</p>
 
-
----
-
-## ⚡ Fun Facts
-- I enjoy turning complex UI requirements into simple user experiences.
-- I like improving existing codebases more than starting from scratch.
-- Always curious about how real production apps are built.
-
----
-
-## 📊 GitHub Stats
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujaljathar&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujal829&layout=compact&theme=tokyonight" />
+</p>
