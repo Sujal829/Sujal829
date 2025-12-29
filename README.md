@@ -36,7 +36,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 ---
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,nodejs,mongodb,git,github" />
 </p>
 ---
 ### 🛠️ Languages & Tools
