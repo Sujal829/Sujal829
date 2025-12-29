@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Jathar</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Frontend & Full Stack Web Developer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -11,11 +11,12 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web & Full-Stack Projects**
-- 🌱 I’m currently learning **Advanced React & Backend**
-- 💬 Ask me about **JavaScript, React, MERN**
+- 🔭 I’m currently building **modern frontend & full-stack web applications**
+- 🌱 I’m currently learning **advanced React patterns & backend development**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS, MERN Stack**
+- 🌐 Portfolio: **https://sujaljathar.netlify.app**
 - 📫 How to reach me **sujaljathar729@gmail.com**
-- ⚡ Fun fact **I love building clean UI & solving problems**
+- ⚡ Fun fact **I enjoy crafting clean UI and smooth user experiences**
 
 ---
 
@@ -45,5 +46,3 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
-
----
