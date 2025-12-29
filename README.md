@@ -38,3 +38,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,mui,vite,python,cpp,java,nodejs,mongodb,git,github,vscode,figma" />
 </p>
+--- 
+
+![Sujal's GitHub Contributions](https://ghchart.rshah.org/Sujal829)
