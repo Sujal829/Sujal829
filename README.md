@@ -39,12 +39,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 
 --- 
 
+## 🎮 Pac-Man Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/main/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/main/output/pacman.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sujal829/Sujal829/main/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sujal829/Sujal829/output/pacman-contribution-graph.svg">
 </picture>
-
 
 
 --- 
