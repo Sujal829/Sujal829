@@ -34,7 +34,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 </p>
 
 ---
-
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github" />
+</p>
+---
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
