@@ -8,13 +8,13 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   <img src="https://komarev.com/ghpvc/?username=Sujal829&label=Profile%20views&color=0e75b6&style=flat" alt="Sujal829" />
 </p>
 
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://sujaljathar.netlify.app/)
 ---
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building **modern frontend & full-stack web applications**
 - 🌱 I’m currently learning **advanced React patterns & backend development**
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, MERN Stack**
-- 🌐 Portfolio: **https://sujaljathar.netlify.app**
 - 📫 How to reach me **sujaljathar729@gmail.com**
 - ⚡ Fun fact **I enjoy crafting clean UI and smooth user experiences**
 
@@ -25,15 +25,9 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   <a href="https://www.linkedin.com/in/sujal-jathar-018019286" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://github.com/Sujal829" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/sujal_jathar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  
-  [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://sujaljathar.netlify.app/))
-
 </p>
 
 ---
