@@ -2,6 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   generate-pacman:
@@ -13,6 +15,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Sujal829
+
+      - name: Rename output folder
+        run: mv output output-pacman
 
       - name: Commit Pacman output
         uses: EndBug/add-and-commit@v9
