@@ -31,6 +31,8 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   <a href="https://instagram.com/sujal_jathar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
+  [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://sujaljathar.netlify.app/))
+
 </p>
 
 ---
