@@ -39,16 +39,4 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,mui,vite,python,cpp,java,nodejs,mongodb,git,github,vscode,figma" />
 </p>
 --- 
-
-![Sujal's GitHub Contributions](https://ghchart.rshah.org/Sujal829)
-
-
 ![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=radical)
-
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
-
-
-![GitHub followers](https://img.shields.io/github/followers/Sujal829?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Sujal829?style=social)
-![GitHub repo count](https://img.shields.io/github/repos/Sujal829)
