@@ -13,11 +13,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building **modern frontend & full-stack web applications**
-- 🌱 I’m currently learning **advanced React patterns & backend development**
-- 💬 Ask me about **JavaScript, React, Tailwind CSS, MERN Stack**
+- 🔭 I’m currently building **modern frontend & full-stack web applications.**
+- 🌱 I’m currently learning **advanced React patterns & backend development.**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS, MERN Stack.**
 - 📫 How to reach me **sujaljathar729@gmail.com**
-- ⚡ Fun fact **I enjoy crafting clean UI and smooth user experiences**
+- ⚡ Fun fact **I enjoy crafting clean UI and smooth user experiences.**
 
 ---
 
