@@ -48,4 +48,4 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 
 --- 
 
-[Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=radical)
+![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=radical)
