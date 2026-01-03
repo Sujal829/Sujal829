@@ -12,21 +12,34 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      # 1️⃣ Checkout main branch (where workflow lives)
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
+      # 2️⃣ Generate Pacman graph
       - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@v2.0.1
         with:
           github_user_name: Sujal829
 
-      - name: Replace output folder
+      # 3️⃣ Switch to output branch
+      - name: Switch to output branch
+        run: |
+          git checkout output
+
+      # 4️⃣ Replace old files
+      - name: Update pacman files
         run: |
           rm -rf output-pacman
           mv output output-pacman
 
+      # 5️⃣ Commit to output branch
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
+          branch: output
           message: "chore: update pacman contribution graph"
           add: "output-pacman"
