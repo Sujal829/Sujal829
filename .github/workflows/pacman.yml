@@ -3,13 +3,17 @@ name: Generate Pacman Contribution Graph
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # runs daily at 00:00 UTC
 
 jobs:
   generate-pacman:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 🔴 REQUIRED to push commits
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
@@ -17,12 +21,15 @@ jobs:
           github_user_name: Sujal829
 
       - name: Rename output folder
-        run: mv output output-pacman
+        run: |
+          rm -rf output-pacman
+          mv output output-pacman
 
       - name: Commit Pacman output
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: "GitHub Actions"
-          author_email: "actions@github.com"
-          message: "Add Pacman contribution graph"
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "chore: update pacman contribution graph"
           add: "output-pacman"
+          push: true
