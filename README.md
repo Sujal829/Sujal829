@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sujal Jathar</h1>
 <h3 align="center">Software Engineer (React Developer) from India 🇮🇳</h3>
 
-<!-- <img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> -->
 <img align="right" alt="Coding" width="400"
-src="https://cdnl.iconscout.com/lottie/premium/thumb/working-software-engineer-animation-gif-download-5304704.mp4" />
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 
 <p align="left">
