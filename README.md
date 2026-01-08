@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> -->
 <img align="right" alt="Coding" width="400"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZyODRuOW94a3VneGllenFkbnl0aXhrYm9haHdxMG8xbDl1dzhqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+src="https://cdnl.iconscout.com/lottie/premium/thumb/working-software-engineer-animation-gif-download-5304704.mp4" />
 
 
 <p align="left">
