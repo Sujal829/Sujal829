@@ -38,9 +38,7 @@
 | | |
 |---|---|
 | 🌍 Location | India |
-| 💼 Role | React Developer |
-| 🧰 Stack | MERN |
-| 📚 Status | Open to opportunities |
+| 💼 Role | Software Enginner |
 
 </td>
 </tr>
