@@ -1,57 +1,53 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sujal Jathar</h1>
+<h3 align="center">Software Engineer (React Developer) from India 🇮🇳</h3>
 
-# Hi, I'm Sujal Jathar 👋
-### Software Engineer | Full-Stack React Developer
+<img align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujal829&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Sujal829" />
-  <br>
-  <a href="https://www.linkedin.com/in/sujal-jathar-018019286">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://sujaljathar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sujal829&label=Profile%20views&color=0e75b6&style=flat" alt="Sujal829" />
+</p>
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://sujaljathar.netlify.app/)
+
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently building **modern frontend & full-stack web applications.**
+- 🌱 I’m currently learning **advanced React patterns & backend development.**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS, MERN Stack.**
+- 📫 How to reach me **sujaljathar729@gmail.com**
+- ⚡ Fun fact **I enjoy crafting clean UI and smooth user experiences.**
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sujal-jathar-018019286" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sujal_jathar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,tailwind,mui,vite,python,cpp,java,nodejs,mongodb,git,github,vscode,figma,postman,netlify,vercel" />
+</p>
 
-### 👨‍💻 Engineering Expertise
+--- 
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Tailwind CSS, Redux, Material UI, Bootstrap |
-| **Backend** | Node.js, Express.js, MongoDB, RESTful APIs |
-| **AI & Architecture** | Google Antigravity, Agentic AI Workflows |
-| **DevOps & Tools** | Vite, Git, Postman, Vercel, Netlify, VS Code |
-| **Languages** | JavaScript (ES6+), Python, Java, C++ |
-
----
-
-### ⚡ Professional Focus
-*   **Building Scalable Web Apps:** Currently engineering complex MERN-stack applications like my *Digital Diner* platform (featuring real-time dashboards & OTP auth).
-*   **AI Integration:** Exploring agentic AI platforms to optimize system architecture and automate production-ready code generation.
-*   **Professional Growth:** Balancing my role at **CredenTek** (Cofos Project) with my advanced **MCA studies** at DY Patil University.
-
----
-
-### 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=radical&hide_border=true&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal829&layout=compact&theme=radical&hide_border=true&border_radius=8" />
-</div>
-
----
-
-### 🎮 Contribution Pulse
+## 🎮 Pac-Man Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/output/output-pacman/pacman-contribution-graph-dark.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sujal829/Sujal829/output/output-pacman/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujal829/Sujal829/output/output-pacman/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sujal829/Sujal829/output/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
----
 
-### 📬 Let's Connect
-[![Email](https://img.shields.io/badge/Email-sujaljathar729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaljathar729@gmail.com)
+--- 
 
-</div>
+![Sujal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujal829&theme=radical)
