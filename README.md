@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=SUJAL%20JATHAR&fontSize=70&fontColor=00FFF7&animation=fadeIn&fontAlignY=35&desc=%3C%20Full-Stack%20Engineer%20%2F%2F%20MERN%20%2F%2F%20System%20Architect%20%3E&descAlignY=55&descSize=20&descColor=8A8AFF](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=SUJAL%20JATHAR&fontSize=70&fontColor=00FFF7&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Developer&descAlignY=55&descSize=20&descColor=8A8AFF)"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=SUJAL%20JATHAR&fontSize=70&fontColor=00FFF7&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Developer&descAlignY=55&descSize=20&descColor=8A8AFF" alt="Sujal Jathar"/>
 
 <br/>
 
