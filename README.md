@@ -1,4 +1,6 @@
 <div align="center">
+
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sujal%20Jathar&section=header&reversal=false&textBg=false&rotate=0)" alt="Sujal Jathar"/>
 
 <br/>
