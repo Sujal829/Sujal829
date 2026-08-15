@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=SUJAL%20JATHAR&fontSize=70&fontColor=00FFF7&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Developer&descAlignY=55&descSize=20&descColor=8A8AFF" alt="Sujal Jathar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sujal%20Jathar&section=header&reversal=false&textBg=false&rotate=0)" alt="Sujal Jathar"/>
 
 <br/>
 
